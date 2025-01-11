@@ -1,0 +1,7 @@
+Cara mengupdate Repository GitHub pada Gitbash
+
+code:
+$ git add .
+$ git commit -m "initialization commit"
+$ git init
+$ git push -u origin main
